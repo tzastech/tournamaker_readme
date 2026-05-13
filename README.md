@@ -3,8 +3,8 @@
 
 A cross-platform tournament and league management app for iOS and Android.
 
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=apple)](YOUR_APP_STORE_LINK)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](YOUR_GOOGLE_PLAY_LINK)
+[![App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/tournamaker-arena/id6757938608)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.tzastech.tournamakerfinal)
 
 ## What it does
 - Create and manage tournaments and leagues for any sport or game
