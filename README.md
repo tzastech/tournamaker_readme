@@ -1,3 +1,4 @@
+
 # Tournamaker Arena
 
 A cross-platform tournament and league management app for iOS and Android.
@@ -25,4 +26,4 @@ A cross-platform tournament and league management app for iOS and Android.
 
 | Home | Create | Manage | Inbox | Teams |
 |------|--------|--------|-------|-------|
-| ![Home](screenshots/home.png) | ![Create](screenshots/create.png) | ![Manage](screenshots/manage.png) | ![Inbox](screenshots/inbox.png) | ![Teams](screenshots/teams.png) |
+| ![Home](<img width="1284" height="2778" alt="image1" src="https://github.com/user-attachments/assets/679e62a6-ccc5-40d3-b1ab-18db7374bda8" />) | ![Create](screenshots/create.png) | ![Manage](screenshots/manage.png) | ![Inbox](screenshots/inbox.png) | ![Teams](screenshots/teams.png) |
